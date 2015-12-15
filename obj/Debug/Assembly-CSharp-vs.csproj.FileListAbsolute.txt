@@ -1,0 +1,10 @@
+C:\Users\GiovanniGomes\Dropbox\BEATS\Main game\MMusic\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\GiovanniGomes\Dropbox\BEATS\Main game\MMusic\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\GiovanniGomes\Dropbox\BEATS\Main game\MMusic\Temp\bin\Debug\UnityEditor.dll
+C:\Users\GiovanniGomes\Dropbox\BEATS\Main game\MMusic\Temp\bin\Debug\UnityEngine.dll
+C:\Users\GiovanniGomes\Dropbox\BEATS\Main game\MMusic\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\GiovanniGomes\Dropbox\BEATS\Main game\MMusic\Temp\bin\Debug\nunit.framework.dll
+C:\Users\GiovanniGomes\Dropbox\BEATS\Main game\MMusic\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\GiovanniGomes\Dropbox\BEATS\Main game\MMusic\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\GiovanniGomes\Dropbox\BEATS\Main game\MMusic\obj\Debug\Assembly-CSharp.dll
+C:\Users\GiovanniGomes\Dropbox\BEATS\Main game\MMusic\obj\Debug\Assembly-CSharp.pdb
